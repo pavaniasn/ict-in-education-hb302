@@ -25,6 +25,9 @@
   .team { display: grid; gap: 12px; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); }
   .team .role { color: var(--muted); font-size: 15px; margin: 0; }
   .team .name { font-weight: 700; margin: 0 0 2px; }
+  .team .name a { text-decoration: none; }
+  .team .name a:hover { text-decoration: underline; }
+  .team .li { font: 14px system-ui, sans-serif; margin: 6px 0 0; }
   .table-wrap { overflow-x: auto; }
   table { border-collapse: collapse; width: 100%; font-size: 15.5px; }
   th, td { border: 1px solid var(--line); padding: 8px 10px; text-align: left; vertical-align: top; }
