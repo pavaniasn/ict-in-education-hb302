@@ -6,6 +6,10 @@ The whole page is one file, `index.html`. To change it on GitHub: open `index.ht
 
 Teaching team: Prof. Sudarshan Iyengar (core instructor), assisted by Pavani Ayinampudi and Prakash Hegade.
 
+## Session plan
+
+`schedule.html` has one table per week (live sessions, ViBe, extra lab, due date). The team draft is the Google Doc "HB302 Session-wise plan (team draft)" in the course Drive folder; keep the two in step.
+
 ## Adding an announcement
 
 Open `announcements.html`, click the pencil icon, and copy one `<div class="ann">` block to the top of the list (newest first). Change the date, title and text, then commit. Mark old ones with `class="ann past"`. Do not post Zoom or WhatsApp links here: the page is public.
